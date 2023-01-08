@@ -1,0 +1,18 @@
+* {
+  font-weight: 700;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "PT Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #f8a51c;
+  // background-image: url(../src/assets/BG.svg);
+}
+
+.swal2-html-container p{
+  color: #444444;
+}

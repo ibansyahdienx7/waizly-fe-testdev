@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aee283f2.css",
+    "main.js": "/static/js/main.5454a3f1.js",
+    "static/js/787.e25618fb.chunk.js": "/static/js/787.e25618fb.chunk.js",
+    "static/media/carbon_password.svg": "/static/media/carbon_password.ee34beccdb449322a2f26199162c08f9.svg",
+    "static/media/akar-icons_person.svg": "/static/media/akar-icons_person.9dd332732291b150e0cce45076671c6e.svg",
+    "static/media/BG.svg": "/static/media/BG.d416eb1f5e223b789a67.svg",
+    "index.html": "/index.html",
+    "main.aee283f2.css.map": "/static/css/main.aee283f2.css.map",
+    "main.5454a3f1.js.map": "/static/js/main.5454a3f1.js.map",
+    "787.e25618fb.chunk.js.map": "/static/js/787.e25618fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee283f2.css",
+    "static/js/main.5454a3f1.js"
+  ]
+}
